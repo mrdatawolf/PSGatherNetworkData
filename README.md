@@ -34,5 +34,6 @@ This script pings a range of IP addresses and retrieves the corresponding MAC ad
 ```powershell
 .\PSGatherIPAndMAC.ps1
 ```
+<!-- Purpose: Pings a IP range and retrieves the corresponding MAC addresses saved to a CSV file. -->
 <!-- INSTALL_COMMAND: curl -L -o PSGatherIPAndMAC.ps1 https://raw.githubusercontent.com/mrdatawolf/PSGatherNetworkData/refs/heads/main/PSGatherIPAndMAC.ps1; curl -L -o PSGatherIPAndMAC.ps1 https://raw.githubusercontent.com/mrdatawolf/PSGatherNetworkData/refs/heads/main/PSGatherSNMPData.ps1 -->
 <!-- RUN_COMMAND: ./PSGatherIPAndMAC.ps1 -->
